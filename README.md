@@ -14,7 +14,7 @@ CS的原有特征随着使用者越来越多，被各大厂商设备查杀。从
 
 ![image](https://user-images.githubusercontent.com/42479546/128217914-6b240b91-3c7e-4361-8055-bc5a45710ff8.png)
 
-![image](https://user-images.githubusercontent.com/42479546/128218337-2f047b79-e01b-4b14-ae30-06737bd12a52.png)
+![image](https://user-images.githubusercontent.com/42479546/128218624-9d4c6f62-6061-4d7f-9374-10fd4547033f.png)
 
 功能正常
 
