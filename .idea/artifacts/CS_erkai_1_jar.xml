@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CS_erkai_1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CS_erkai_1_jar</output-path>
+    <root id="archive" name="CS_erkai_1.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="CS_erkai_1" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/ant/ant/1.7.1/ant-1.7.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/cobaltstrike.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/logkit/logkit/1.0.1/logkit-1.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/ant/ant-launcher/1.7.1/ant-launcher-1.7.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/eu/bitwalker/UserAgentUtils/1.21/UserAgentUtils-1.21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mozilla/rhino/1.7.13/rhino-1.7.13.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
